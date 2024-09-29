@@ -1,8 +1,6 @@
-exp 2 : Understanding the connectivity of Raspberry-
-Pi/Beagleboardcircuitwithtemperaturesensor.Write an application to read the environment
-
-temperature. If temperature crosses a threshold value, the application indicate duserusing
-LEDS
+exp 2 : Understanding the connectivity of Raspberry-Pi /Beagle board circuit with temperature sensor. 
+Write an application to read the environment temperature. 
+If temperature crosses a threshold value, the application indicated user using LEDSs
 
 
 // 
